@@ -1,6 +1,6 @@
 # Table of contents
 
-* [My blog](README.md)
+* [Hello World](README.md)
 
 ## Simpy 仿真
 
