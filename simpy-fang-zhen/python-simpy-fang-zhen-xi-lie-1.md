@@ -1,6 +1,6 @@
 # Python SimPy 仿真系列 \(1\)
 
-{% file src="../.gitbook/assets/v2-7d1a96a18fdc4e5d4a4810022b536312\_1200x500.jpg" caption="Simpy logo" %}
+![](../.gitbook/assets/v2-7d1a96a18fdc4e5d4a4810022b536312_1200x500.jpg)
 
 本系列文章旨在介绍 SimPy 在工业仿真中的应用。
 
