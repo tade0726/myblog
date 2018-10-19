@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About Me](README.md)
+* [我的简历](wo-de-jian-li.md)
 
 ## Simpy 仿真
 
