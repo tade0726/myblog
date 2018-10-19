@@ -5,6 +5,10 @@
 * 手机: 18676732070
 * 邮箱: zp913913@gmail.com
 
+## 个人照片
+
+![](.gitbook/assets/ge-ren-zhao-pian.jpg)
+
 ## 个人信息
 
 * 赵鹏/男/1991 
